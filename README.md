@@ -5,10 +5,10 @@
 <br>
 
 - 🔭 I’m currently working on to brushing up my skills
-- 🌱 I’m currently learning C, C++ and DSA
+- 🌱 I’m currently learning JAVA and DSA
 - 👯 I’m looking to collaborate on JavaScript and ML projects
 - 💬 Ask me about C, C++, CSS, Java and JavaScript
-- 📫 How to reach me: <a href="mailto:rishabhhh.7@gmail.com">rishavtewari@spacex.com</a>
+- 📫 How to reach me: <a href="mailto:rishabhhh.7@gmail.com">rishabhhh.7@gmail.com</a>
 
 <br/>
 
